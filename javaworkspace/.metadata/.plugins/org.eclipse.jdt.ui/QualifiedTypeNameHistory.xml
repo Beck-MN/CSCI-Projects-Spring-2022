@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="hw2.CyGame"/>
+    <fullyQualifiedTypeName name="api.CellType"/>
+    <fullyQualifiedTypeName name="api.Orientation"/>
+    <fullyQualifiedTypeName name="api.Hand"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="util.SubsetFinder"/>
+    <fullyQualifiedTypeName name="api.Card"/>
+</qualifiedTypeNameHistroy>
